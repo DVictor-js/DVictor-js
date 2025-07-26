@@ -1,5 +1,9 @@
-- 💬 Estudando Programação
-- 📫 Iniciante
+- 💬 UCB - Analise e desenvolvimento de sitemas.
+- 📫 Python & Dados
+
+Sou um estudante com grande interesse em análise de dados e desenvolvimento Back-End. Tenho experiência acadêmica com projetos em equipe, utilizando ferramentas como Python, FastAPI, Scikit-learn e integração com Front-End. 
+Gosto de aprender na prática, transformar dados em insights e buscar soluções que tenham impacto real. Estou em constante evolução e pronto para contribuir com dedicação, curiosidade e vontade de crescer.
+
 
 <!--
 **DVictor-js/DVictor-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
